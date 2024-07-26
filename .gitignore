@@ -1,0 +1,6 @@
+.env
+env.sh
+access-token
+.terraform
+terraform.tfstate
+terraform.tfstate.backup
